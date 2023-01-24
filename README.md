@@ -1,6 +1,6 @@
 # Circularapp
 
-[Angular Circular Gauge](https://www.syncfusion.com/angular-components/angular-circular-gauge) is an ideal component for visualizing numeric values on a circular scale with features like multiple axes, rounded corners, and more. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+[Angular Circular Gauge](https://www.syncfusion.com/angular-components/angular-circular-gauge?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples) is an ideal component for visualizing numeric values on a circular scale with features like multiple axes, rounded corners, and more. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
 
@@ -52,13 +52,13 @@ The gauge axes are circular scales where a set of values can be plotted based on
 
 [Documentation](https://ej2.syncfusion.com/angular/documentation/circular-gauge/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/ej2-circular-gauge-angular-getting-started.git?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/ej2-circular-gauge-angular-getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
-[Online example](https://ej2.syncfusion.com/angular/demos/#/material/circular-gauge/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
+[Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/circular-gauge/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
 [Knowledge base](https://www.syncfusion.com/kb/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-circular-gauge-github-samples)
 
