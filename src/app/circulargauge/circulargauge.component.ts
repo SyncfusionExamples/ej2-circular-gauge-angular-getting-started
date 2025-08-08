@@ -9,14 +9,14 @@ import { CircularGaugeComponent, ILoadedEventArgs } from '@syncfusion/ej2-angula
 })
 export class CirculargaugeComponent implements OnInit {
   @ViewChild('range')
-    public circulargauge: CircularGaugeComponent;
-    public lineStyle: object;
-    public labelStyle: object;
-    public majorTicks: object;
-    public minorTicks: object;
-    public tail: object;
-    public pointerCap: object;
-    public annotaions: object;
+    public circulargauge!: CircularGaugeComponent;
+    public lineStyle!: object;
+    public labelStyle!: object;
+    public majorTicks!: object;
+    public minorTicks!: object;
+    public tail!: object;
+    public pointerCap!: object;
+    public annotaions!: object;
   constructor() { }
   ngOnInit() {
     this.lineStyle = {
