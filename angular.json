@@ -57,18 +57,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "circularapp:build"
+            "buildTarget": "circularapp:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "circularapp:build:production"
+              "buildTarget": "circularapp:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "circularapp:build"
+            "buildTarget": "circularapp:build"
           }
         },
         "test": {
